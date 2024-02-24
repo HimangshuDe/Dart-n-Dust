@@ -10,7 +10,7 @@ Its syntax is quite similar to one in C.
 
 ---
 
-# Data Types:beginner:
+# Data Types :beginner:
 List below are the following data types:
 1. [Numbers](https://github.com/HimangshuDe/Dart-n-Dust/blob/main/numbers.dart)
     - `num`
@@ -49,8 +49,7 @@ See this [file](https://github.com/HimangshuDe/Dart-n-Dust/blob/main/loops.dart)
 ---
 
 # Functions:
-For functions in dart, see this [file](https://github.com/HimangshuDe/Dart-n-Dust/blob/main/functions
-.dart).
+For functions in dart, see this [file](https://github.com/HimangshuDe/Dart-n-Dust/blob/main/functions.dart).
 
 ---
 
