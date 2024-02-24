@@ -36,22 +36,22 @@ List below are the following data types:
 
 ---
 
-# Conditions:
-`if`, `else if`, `else` are the keywords that are used to define a condition in dart.
-See this [file](https://github.com/HimangshuDe/Dart-n-Dust/blob/main/conditions.dart).
+# Conditions :heavy_check_mark:
+`if`, `else if` and `else` are the keywords that are used to define a condition in dart.
+Go to this [file](https://github.com/HimangshuDe/Dart-n-Dust/blob/main/conditions.dart).
 
 ---
 
-# Loops:
+# Loops :loop:
 `for`, `do-while` and `while` are the keywords that are used to define loops in dart.
 See this [file](https://github.com/HimangshuDe/Dart-n-Dust/blob/main/loops.dart)
 
 ---
 
-# Functions:
-For functions in dart, see this [file](https://github.com/HimangshuDe/Dart-n-Dust/blob/main/functions.dart).
+# Functions :paperclip:
+For functions in dart, have this [file](https://github.com/HimangshuDe/Dart-n-Dust/blob/main/functions.dart).
 
 ---
 
-# Classes and Objects:
-For classes and objects in dart, see this [file](https://github.com/HimangshuDe/Dart-n-Dust/blob/main/classes-and-objects.dart).
+# Classes and Objects :spades:
+For classes and objects in dart, observe this [file](https://github.com/HimangshuDe/Dart-n-Dust/blob/main/classes-and-objects.dart).
