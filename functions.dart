@@ -1,31 +1,8 @@
 void main(){
-  print("Hello");
-
-  var myC = myClass();
-  myC.printName("VAC"); // Function calling
-  //
-  //
-  //
-
-  myC.printName("Flutter"); // Function calling
-
-  int a = myC.Add(15, 15);
-  print(a);
+  Human(); //Creating a new Human Object from the Human Class.
+  // We can also use the `new` keyword to create a new object from a class.
 }
 
-
-class myClass{
-  
-  myClass(){ // Default Constructor
-    print("myClass Object Created!");
-  }
-  void printName(String? name){ // Declaration
-    print(name); // Definition
-  }
-
-  int Add(int a, int b){
-    return a+b;
-  }
-  
+void Human(){
+  print("Hello World!");
 }
-
