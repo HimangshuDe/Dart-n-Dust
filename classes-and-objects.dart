@@ -1,16 +1,19 @@
 void main(){
   print("Hello");
 
-  var myC = myClass();
+  var myC = myClass(); // Class constructed
   myC.printName("VAC"); // Function calling
-  //
-  //
-  //
-
+  /*
+    some lines of code
+  */
   myC.printName("Flutter"); // Function calling
 
-  int a = myC.Add(15, 15);
-  print(a);
+  // Another way
+  new myClass().printName("Himangshu");
+  
+  // Alter way
+  var classCall = new myClass();
+  classCall.printName("Class in Flutter");
 }
 
 
@@ -23,9 +26,5 @@ class myClass{
     print(name); // Definition
   }
 
-  int Add(int a, int b){
-    return a+b;
-  }
-  
 }
 

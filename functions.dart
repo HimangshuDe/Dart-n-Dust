@@ -1,8 +1,14 @@
 void main(){
-  Human(); //Creating a new Human Object from the Human Class.
-  // We can also use the `new` keyword to create a new object from a class.
+  // Demo of functions in dart.
+  Human();
+  print(Add(10, 20));
 }
 
 void Human(){
   print("Hello World!");
+}
+
+
+int Add(int a, int b){
+  return a+b;
 }
